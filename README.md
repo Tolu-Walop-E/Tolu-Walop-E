@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tolu</h1>
 <h3 align="center">A passionate Software Engineer based in London</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tolu-walop-e&label=Profile%20views&color=0e75b6&style=flat" alt="tolu-walop-e" /> </p>
-
 - 🔭 I’m currently working on **a Student Social App**
 
 - 💬 Ask me about **react, AWS, django**
